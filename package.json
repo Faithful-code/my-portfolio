@@ -2,8 +2,18 @@
   "name": "my-portfolio",
   "author": "Johnson Dev",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
+  "description": "This is a personal portfolio project built with Vite and React.",
+  "keywords": [
+    "portfolio",
+    "react",
+    "vite",
+    "tailwind",
+    "frontend",
+    "developer"
+  ],
+  "license": "MIT",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
