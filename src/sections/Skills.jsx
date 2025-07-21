@@ -10,6 +10,7 @@ export default function Skills() {
     { name: "Vite", emoji: "⚡" },
     { name: "Git & GitHub", emoji: "🔧" },
     { name: "Framer Motion", emoji: "🎞️" },
+    { name: "Video Editing", emoji: "🎬" },
   ];
 
   const container = {

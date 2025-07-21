@@ -29,7 +29,7 @@ export default function Footer() {
 
           {/* GitHub */}
           <motion.a
-            href="https://github.com/yourusername"
+            href="https://github.com/Faithful-code"
             target="_blank"
             rel="noopener noreferrer"
             whileHover={{ scale: 1.1 }}
@@ -41,7 +41,7 @@ export default function Footer() {
 
           {/* Twitter */}
           <motion.a
-            href="https://twitter.com/yourusername"
+            href="https://x.com/JohnsonFid36766?t=5beOM39K1GPbyHcTK6yFVw&s=09"
             target="_blank"
             rel="noopener noreferrer"
             whileHover={{ scale: 1.1 }}
@@ -53,7 +53,7 @@ export default function Footer() {
 
           {/* TikTok */}
           <motion.a
-            href="https://www.tiktok.com/@yourusername"
+            href="https://vm.tiktok.com/ZMSntBHBa/"
             target="_blank"
             rel="noopener noreferrer"
             whileHover={{ scale: 1.1 }}
